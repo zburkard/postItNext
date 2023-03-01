@@ -1,4 +1,4 @@
-
+'use client'
 import Post from "./Post"
 import AddPost from "./AddPost"
 import { useQuery } from "react-query"
